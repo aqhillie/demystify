@@ -1,6 +1,6 @@
 # Windows Mystify Screensaver in Javascript
 
-See it in action here: http://rosenation.tv/demystify.html
+See it in action [here](http://rosenation.tv/demystify.html){:target="_blank"}.
 
 This is actually my first HTML 5 web application in Javascript. It's a port of something I did in Actionscript a while back. It was super fast to port since both Javascript and Actionscript are the same language (ECMAScript) with different object models.
 
