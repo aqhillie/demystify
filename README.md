@@ -11,3 +11,5 @@ Back when I learned and became an expert at Flash I formed the opinion that much
 I chose this to port to Javascript because it was the most simple one to do using the HTML 5 canvas.
 
 HTML 5 was/is a dream for those of us who were convinced Flash was this necessary evil garbage that needed to happen to create dynamic web pages or what we now call single-page apps.
+
+**Update:** I don't remember why I have a js file here when it obviously isn't used. I think originally I imported it into the script but I always wanted to showcase the code in my projects online so I suppose putting it in a script tag was the easiest way to pull it into the page that I found at the time.
