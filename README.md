@@ -1,5 +1,7 @@
 # Windows Mystify Screensaver in Javascript
 
+See it in action here: http://rosenation.tv/demystify.html
+
 This is actually my first HTML 5 web application in Javascript. It's a port of something I did in Actionscript a while back. It was super fast to port since both Javascript and Actionscript are the same language (ECMAScript) with different object models.
 
 Originally this was a personal challenge to myself to use my I know about graphics programming to try to duplicate the Mystify Windows screensaver without looking at anything just writing it from scratch with no resources and see how fast I could do it while also being extremely efficient code wise.
